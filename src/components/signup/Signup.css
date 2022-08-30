@@ -1,0 +1,7 @@
+.container {
+    margin-top: 40px;
+}
+.signup-btn {
+    display: flex;
+  justify-content: space-between;
+}
